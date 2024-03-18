@@ -1,2 +1,2 @@
-# VUE---OJT
+# VUE-OJT
 vue-ojt입니다
